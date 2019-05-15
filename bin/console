@@ -1,9 +1,0 @@
-#!/usr/bin/env ruby
-
-require "bundler/setup"
-require "bean_box"
-
-
-
-require "irb"
-IRB.start(__FILE__)
