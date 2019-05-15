@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
- require_relative "../lib/bean_box"
-
-BeanBoxCoffee::CLI.new.call
